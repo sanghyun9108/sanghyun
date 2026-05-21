@@ -1,9 +1,1 @@
-{
-  "version": 2,
-  "routes": [
-    {
-      "src": "/api/sheets",
-      "dest": "/api/sheets.js"
-    }
-  ]
-}
+{}
